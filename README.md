@@ -21,6 +21,8 @@
 
 **Hello Rails** is a Ruby on Rails/React demo project that demonstrates the use of the 2 apps strategy where we split our app into 2 parts back-end and front-end, this repo represents the back-end part and is built with Rails.
 
+you can find the front-end repository [here](https://github.com/ouasamine/hello-rails-front-end)
+
 ## Built With
 
 ### Tech Stack 
